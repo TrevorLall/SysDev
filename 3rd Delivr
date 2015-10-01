@@ -14,6 +14,8 @@ pictures and recommendations for the cleaning services.
 4. (15 marks) Narrative description of the present information system – This summarizes what is
 described by the diagrams in the appendices
 
+Their current information system is a spreadsheet, and they have their own website (but no built-in database).  When they client is calling to the company, his name, phone, address and other information are written down in the phone book. Later, the folder on personal computer is created. When the job is executed, all services are recorded with pictures and videos (before and after the cleaning). This information is stored to the folder with the client’s information and date of the treatment. 
+
 5. (15 marks) Appendix 1 – Use cases: 
 - Include system diagram (3 marks) 
 - filled out templates of at least three representative use cases (4 marks each) (a template for each use cases)
