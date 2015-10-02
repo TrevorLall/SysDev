@@ -9,7 +9,7 @@ Chiltech's current information is stored within a spreadsheet, as well as a publ
 Once they gain the interest of a client, all current and future clientelle information is stored within a folder specified for said client. 
 Any information, such as photographs and other documentation is later saved onto the same folder, sharing this folder as a unique storage entity meant to store information for each client seperately.
 
-Within the first appendix, informative system diagrams  for procedures such as; Client Contact, Treatment Process, Stored Work Results, and Payments are displayed, in that respected order.
+Within the first appendix, there are informative system diagrams for procedures such as; Client Contact, Treatment Process, Stored Work Results, and Payments are displayed, in that respected order.
 These diagrams are used to show the processes and dependencies in every step of each procedure. To view these diagrams, please refer to page #.
 As for our User Cases, these can be found at page #. The four main cases given covers Client Contact Information, Treatment Process, Storage work, and Payment processes in that order. 
 Each case contains essential information which contains the parties involved, the order of which procedures take place, alternative procedures if required, conditions, exceptions and every other crucial detail to each individual case. 
