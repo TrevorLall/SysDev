@@ -1,6 +1,23 @@
 1. (3 marks) Front matter (see 1st deliverable)
 
 2. (5 marks) Executive Overview (see above for a description) - ALEX
+To reinstate what services Chiltech provides in finer detail, they provide treatment for Bacterial and Algae build up, French drain cleaning, contamination examination, and maintenance. 
+Their evaluations process follows the procedure of taking water samples, photographed coniditons of the pipe, and conduct an analysis of the current level of a bacterial presence.
+Given this information, the next course of action is then suggested to their client, following reccomendations of their cleaning services.
+
+Chiltech's current information is stored within a spreadsheet, as well as a publicly available website. 
+Once they gain the interest of a client, all current and future clientelle information is stored within a folder specified for said client. 
+Any information, such as photographs and other documentation is later saved onto the same folder, sharing this folder as a unique storage entity meant to store information for each client seperately.
+
+Within the first appendix, informative system diagrams  for procedures such as; Client Contact, Treatment Process, Stored Work Results, and Payments are displayed, in that respected order.
+These diagrams are used to show the processes and dependencies in every step of each procedure. To view these diagrams, please refer to page #.
+As for our User Cases, these can be found at page #. The four main cases given covers Client Contact Information, Treatment Process, Storage work, and Payment processes in that order. 
+Each case contains essential information which contains the parties involved, the order of which procedures take place, alternative procedures if required, conditions, exceptions and every other crucial detail to each individual case. 
+Each of these cases have their own Activity and Sequence diagrams given in Appendix 2, located at page #. 
+Included in Appendix 2 is a Statechart diagram for every following procedure from the start of a new client, towards the payment process, mapping out each step by phase.
+The UML diagram for our roles in this system can be found on page #.
+
+Lastly, Appendix 3 (seen on page #) contains a copy of one of our client's forms, containing the service date, client name, client address and the service provided. 
 
 3. (5 marks) Summary description of the client - ZHENG (you can take part of it from the 2nd Deliverable)
 
