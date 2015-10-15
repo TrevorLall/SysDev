@@ -18,7 +18,12 @@ using is the "paper method" which they record the client's inforamtion and payme
 (Added: Descrption of client's computer skills and their current information system.)
 
 4. (15 marks) Narrative description of the future information system – This summarizes what is described by 
-the user stories in the Appendix. 
+the user stories in the Appendix.
+
+	Based on the information we acquired from our client during our meetings, we were able to figure out in a broad scope, what kind of requirements and implementations the new information system would need. Due to the fact that their current information system is almost all on pen and paper, there was a lot of aspects discussed on what features they wanted to add. They are looking for a system that is relatively simple to use with a lot of basic functionalities.
+ The first step is to have access to the database, so that way the receptionist of Chiltech can find and store information for the existing customers they have. As for new customers, they want a system that can show which days are available for customers that need their services, and a way to store the appointment dates when they are available. The next aspects the client is looking for, is to implement a way to create, modify, and delete customer information easily, and to be able to sort through the customer files by client name, amount paid, and date of treatment service done. Another aspect of the system they wanted to add, was being able to check off what type of service the customer wants, such as, if the customer wants an inspection service, the cleaning service, or both. When we talked with our client, one of the most important features was being able to store the before and after pictures and videos taken at each appointment. They want an information system that can create a picture and video file, and a way to store the appropriate pictures and videos for each customer. Lastly, Chiltech wanted a way so that they can make a backup of the customer file, because they plan on doing regular backups every end of the month. 
+To summarize, our client is looking for an easy way to create, modify, delete, backup and sort personal information, pictures, videos for each of their customers, as well as being able to easily book appointments and store what type of appointment each customer wants.
+
 
 5. (10 marks) Appendix 1 – User stories – Include scans of the front of 4 user story cards, and transcriptions of 
 all story cards. 
