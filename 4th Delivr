@@ -2,6 +2,23 @@
 dont forget previous work used :D
 
 2. (5 marks) Executive Overview (see above for a description)
+Reinstated in this deliverable regarding clientele information, the client we are working for goes by the name Chiltech. 
+Chiltech is a French Drain cleaning company, they provide many services such as; Algae and Bacterial treatment, French Drain cleaning, 
+contamination examination, and maintenance services. Their computer skills are currently limited, 
+as they only have a working website for their company and refer to using paper spreadsheets to hold all of their clients' information and services provided.
+
+As for future development, we have spoken with our client to seek what they desire within their database. 
+Due to the fact that their current information is all held on paper, we must create an entire database from scratch.
+Within this database, our client has requested us to implement functions that provide expected availability,
+as well as a relatively easy adaptation for using it. Functionalities such as; finding and storing information, 
+displaying available appointment dates for customers, storing appointments requested by customers on their chosen dates,
+availability to modify/delete client information, sorting methods which can sort clientele information by date of treatment and client information, 
+the availability to store /manage photos and videos within the database, and lastly, implementing a way to let our client do monthly backups of the database. 
+
+On pages X - X, we have listed and sorted user stories which would be requested by the user(s) of the database. 
+Listing each task expected and requested by the client, and stating the testing procedures to be carried out in order to fulfill each request. 
+Each card is then mapped out orderly on page X, please refer to these pages stated as they will display every detail of these procedures,
+as well as give insight of the scale of our planned database and its feasibility. 
 
 3. (5 marks) Summary description of the client (Revised – indicate what has changed or has been added since 
 the last deliverable)
