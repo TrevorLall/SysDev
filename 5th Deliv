@@ -2,6 +2,21 @@
 • (5 marks) Executive Overview (see above for a description). **Alex, Naturally*
 • (5 marks) Revised summary narrative description of the project; indicate what has changed or
 has been added since the last deliverable
+
+Our client "Chiltech" is a french drain cleaning industry. Chiltech’s services includes; 
+Bacterial and Algae treatment, French drain cleaning, Drain examination for contamination, and Maintenance treatments.
+They usually do some evalutations before the treatements. The evaluations procedures involves a collection of water samples
+and camera inspection of the drainage pipes. After this procedure, the samples are sent to a laboratory for a final 
+analysis so that they can determine the presence of bacteria contamination. Then they will report to the clients with 
+pictures and recommendations for the cleaning services. Our client's computer skills are limited, they only know simple
+tasks such as browsing web pages and creating some simple files and folders. The information system they are currently
+using is the "paper method" which they record the client's inforamtion and payments on a cashier. Our client wants to have
+an interactive information system so they can easily add, modify and delete their customers' records. They want the user interface
+to be clean and straightforward but they want also a minimum security function such as a login name and password in order to
+make all those changes.
+
+(Added: Descrption of the new information system that client wants.)
+
 • (10 marks) Prototype you developed with the client (scanned) **Plan meeting with Mark**
 • (5 marks) Client’s comments during the process **Whatever Mark says that isn't degrading**
 • (15 marks) Appendix 1 – Revised User stories and tests – indicate what has changed, plus new
