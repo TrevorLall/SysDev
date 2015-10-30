@@ -1,5 +1,25 @@
 •(3 marks) Front matter (see 1st deliverable)
 • (5 marks) Executive Overview (see above for a description). **Alex, Naturally*
+
+To enlighten the reader on our client, we are providing our service to a French Drain cleaning company known as ChilTech. This company provides services such as;
+Bacterial and Algae Treatment, French Drain cleaning, drain examination for contamination, and maintenance services. 
+They follow many different practices and utilize their tools and knowledge available in order to go through with these services. 
+Our client only knows basic computer knowledge, and currently owns a website made to advertise and draw in customers. 
+Because of this, their current information system is stored on paper instead of an actual online database. 
+The client wishes for us to create an interactive system in a way where he could easily add, modify, refer to, and delete any sort of records.
+They requested for it to be straight forward and with the least amount of clutter possibly, as well as a basic login screen as their security access. 
+
+As seen on page X, we have scanned the rough prototype of how every interface within the system may look like as drawn by our client, 
+and later redrawn. It only consists of three separate interfaces, but it covers all of which our client requests. 
+Our client added how he wanted feasibility as well as functionality, purposing it in a way where anyone without knowledge of 
+using an information system can easily navigate and use, as well as ensuring the system is functioning properly. 
+
+As for our user stories, please refer to pages X-X. These provide the basic requirements and tests that are required to be done 
+in order to successfully provide those requested actions. As it can be seen, we have a few extra stories, 
+mainly surrounding the way our prototype will work. Giving the ability to add future clients, modify them, and delete them if necessary.
+As well as enter a given username and password.
+Lastly, in order to refer to the mapping of these user stories, please refer to page X.
+
 • (5 marks) Revised summary narrative description of the project; indicate what has changed or
 has been added since the last deliverable
 
@@ -18,6 +38,8 @@ make all those changes.
 (Added: Descrption of the new information system that client wants.)
 
 • (10 marks) Prototype you developed with the client (scanned) **Plan meeting with Mark**
+https://www.dropbox.com/s/abb22m24i3yyirc/CCI10292015_0000.jpg?dl=0
+https://www.dropbox.com/s/o1zk08k31iu0em1/CCI10292015_0001.jpg?dl=0
 • (5 marks) Client’s comments during the process **Whatever Mark says that isn't degrading**
 • (15 marks) Appendix 1 – Revised User stories and tests – indicate what has changed, plus new
 user stories.
