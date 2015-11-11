@@ -3,7 +3,8 @@ system. In order to describe this design, referring to the initial class diagram
 produce an ER diagram and describe the relational table structure.
 You will also determine the physical characteristics of the database system. You are free to use MS
 Access, Oracle, or any other implementation of SQL for this implementation. You will explain the
-technical specifications for storing and retrieving data. The goal is to create a design for storing data that will provide adequate performance and insure database integrity, security and recoverability. It is at this
+technical specifications for storing and retrieving data. The goal is to create a design for storing data that 
+will provide adequate performance and insure database integrity, security and recoverability. It is at this
 point that you need to consider the size of the database, both now and for the future (three to five years).
 You also need to think about how quickly the database needs to be accessed.
 You will also show the user interface developed to access the database.
