@@ -1,6 +1,15 @@
 • (3 marks) Front matter (see 1st deliverable)
 
 • (5 marks) Executive Overview (see above for a description).
+Executive Overview
+This deliverable is the sixth edition out of our entire planned system so far. Continuing with our client, ChilTech, this deliverable will encapsulate the process of creating a computer based prototype of the expected User Interface. This deliverable is a continuation of our primary drawn prototype, the purpose of this extension is to demonstrate how the completed project may look, and it acts as an incentive for our client to add comments based on this prototype, as well as consider further changes. We approached this prototype with an efficient and simplistic approach by using Paint.Net as it depicts what we expect to produce, without overdesign or complication, since out client has requested an easy-to-use interface. 
+
+Our finished prototype (As seen on pages #-#), mimics our drawn version almost fully. The main changes seen between our hand-drawn and computerized version are redefined details such as our client’s logo at the top left of each screen, as well as an added treatment field to our “Treatments” chart. One minor difference is that we removed a vague field drawn as “Extra client information”, since it proved to be useless and undefined. We have chosen a simplistic yet appealing colour palette, our grey background compliments the red highlighted fields, aiming our user’s attention to the areas that provide helpful information. 
+
+Our client seems pleased with our final result, approving of our design scheme and feasibility our prototype promises. One change they wish to see is a separate chart made for adding future clients into their system rather than the small chart provided on our second screen in our prototype. They also believe adding photos and other media files may be complicated to add, but we insisted on adding at least images into our database. 
+
+Apart from all these changes, our User Stories and User Story mapping has not indicated any change during this deliverable, as all our original ideas are still intact and our client’s suggestions were already present in our User Stories. If you wish to view our User Story mapping and Stories, please refer to our pages starting from page X, to X. 
+
 
 • (5 marks) Revised summary narrative description of the project
 
@@ -10,8 +19,8 @@ projects such as "gather basic client information", "create user stories", "desi
 For this specific sub-project, the main goal is to produce a second prototype from the information of the first prototype.
 In this prototype, our team needs to improve it based on client's feedbacks and comments on the first(paper) prototype.
 This second prototype should be done on computer, using drawing tools such as Photoshop or even use HTML/CSS. The idea
-is to give the client an idead what the actually information system will look like (the UI). The prototype could contains
-several screens and should be clearly demonstrated to the client the interaction between them.
+is to give the client a perspective of what the actual information system will look like (the UI). The prototype could contain
+several screens and should be clearly demonstrated to the client and the interaction between them.
 
 
 • (15 marks) Printed version of the prototype > With Trevor
