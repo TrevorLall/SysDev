@@ -1,13 +1,11 @@
 Based on your understanding of the client’s requirements, you will produce a design of the database
-system. In order to describe this design, referring to the initial class diagram (3rd deliverable), you will
-produce an ER diagram and describe the relational table structure.
-You will also determine the physical characteristics of the database system. You are free to use MS
-Access, Oracle, or any other implementation of SQL for this implementation. You will explain the
-technical specifications for storing and retrieving data. The goal is to create a design for storing data that 
-will provide adequate performance and insure database integrity, security and recoverability. It is at this
-point that you need to consider the size of the database, both now and for the future (three to five years).
-You also need to think about how quickly the database needs to be accessed.
-You will also show the user interface developed to access the database.
+system. In order to describe this design, referring to the initial class diagram (3rd deliverable), 
+1 - you will produce an ER diagram and describe the relational table structure.
+2 - You will also determine the physical characteristics of the database system. (You are free to use MS Access, Oracle, or any other implementation of SQL for this implementation.)
+3 - You will explain the technical specifications for storing and retrieving data. 
+The goal is to create a design for storing data that will provide adequate performance and insure database integrity, security and recoverability. It is at this point that you need to consider the size of the database, both now and for the future (three to five years).
+4 - You also need to think about how quickly the database needs to be accessed.
+5 - You will also show the user interface developed to access the database.
 
 • (3 marks) Front matter (see 1st deliverable)
 • (5 marks) Executive Overview (see above for a description).
@@ -15,7 +13,7 @@ You will also show the user interface developed to access the database.
 • (15 marks) Narrative description of the database design. Include a block diagram showing the application and user 
 interaction with the various parts of the database.
 
-• (10 marks) Appendix 1 – ER diagram, complete with cardinalities.
+• (10 marks) Appendix 1 – ER diagram, complete with cardinalities.  
 
 • (9 marks) Appendix 2 – Descriptions and explanations of
   o (3 marks) Attribute data types
@@ -24,12 +22,13 @@ interaction with the various parts of the database.
   
   o (3 marks) Query optimization
   
-• (10 marks) Appendix 3 – An analysis of the size of the database, now and for the next three to
-five years (5 marks), as well as an explanation of the access speed required, and how your design
-will permit this (5 marks).
-
+• (10 marks) Appendix 3 – An analysis of the database 
+  o the size of the database, now and for the next three to five years (5 marks)
+  
+  o explanation of the access speed required, and how your design will permit this (5 marks).
+  
 • (10 marks) Appendix 4 – User interface designs (these will be updated versions of the second
-prototype from the 5th deliverable)
+prototype from the 5th deliverable) - so printed version I'm guessing? 
 
 • (2 marks) Bibliography/Works cited (APA Style)
 • (5 marks) Spelling, grammar and formatting
