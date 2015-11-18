@@ -24,6 +24,9 @@ interaction with the various parts of the database.
   
 • (10 marks) Appendix 3 – An analysis of the database 
   o the size of the database, now and for the next three to five years (5 marks)
+  how space needed for the next 5 years. 
+  How many is needed for 1 input 
+  How much in a day
   
   o explanation of the access speed required, and how your design will permit this (5 marks).
   
