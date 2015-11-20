@@ -10,28 +10,49 @@ The goal is to create a design for storing data that will provide adequate perfo
 • (3 marks) Front matter (see 1st deliverable)
 • (5 marks) Executive Overview (see above for a description).
 
-• (15 marks) Narrative description of the database design. Include a block diagram showing the application and user 
-interaction with the various parts of the database.
+• (15 marks) Narrative description of the database design. - Alex (Include a block diagram showing the application and user 
+interaction with the various parts of the database. - Done)
 
-• (10 marks) Appendix 1 – ER diagram, complete with cardinalities.  
+• (10 marks) Appendix 1 – ER diagram, complete with cardinalities. - Igor 
 
 • (9 marks) Appendix 2 – Descriptions and explanations of
   o (3 marks) Attribute data types
+  User Table - Username (Primary Key): Digits - 5
+             - Password : Varchar2 - 10
+             
+  Customer Table - CustomerID (Primary Key) Digits - 3
+                 - First Name - Varchar2 - 20
+                 - Last Name - Varchar 2 - 20
+                 - Address - Varchar 2 - 50
+                 - Phone Number - Digit - 10
+                 - Email - Varchar - 40 
+                 - TreatmentID (Foreign Key) - Digit - 2
+                 
+  Treatment Table - TreatmentID (Primary Key) - Digit - 2
+                  - Date of Treatment - Date
+                  - Treatment Type (Foreign Key) - Digit - 1
+                  - PaymentId (Foreign Key) - Digit - 2
+                  
+  Payment Table - PaymentId (Primary Key) - Digit - 2 
+                - Amount - Varchar2 - 6
+                - Date to Pay Amount - Date
+                - Payment Type - Varchar2 - 10
+                - Treatment Type ID (Foreign Key) - Digit - 2
+
+  o (3 marks) Indexes and database architectures - Zheng 
   
-  o (3 marks) Indexes and database architectures
+  o (3 marks) Query optimization - Zheng 
   
-  o (3 marks) Query optimization
-  
-• (10 marks) Appendix 3 – An analysis of the database 
-  o the size of the database, now and for the next three to five years (5 marks)
+• (10 marks) Appendix 3 – An analysis of the database - Trevor
+  o the size of the database, now and for the next three to five years (5 marks) - 
   how space needed for the next 5 years. 
   How many is needed for 1 input 
   How much in a day
   
-  o explanation of the access speed required, and how your design will permit this (5 marks).
+  o explanation of the access speed required, and how your design will permit this (5 marks). 
   
 • (10 marks) Appendix 4 – User interface designs (these will be updated versions of the second
-prototype from the 5th deliverable) - so printed version I'm guessing? 
+prototype from the 5th deliverable) - so printed version I'm guessing? Karyn
 
 • (2 marks) Bibliography/Works cited (APA Style)
 • (5 marks) Spelling, grammar and formatting
