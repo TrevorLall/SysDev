@@ -27,21 +27,35 @@ interaction with the various parts of the database. - Done)
                  - Phone Number - Digit - 10
                  - Email - Varchar - 40 
                  - TreatmentID (Foreign Key) - Digit - 2
+                 - PaymentID (Foreign Key) - Digit - 2
                  
   Treatment Table - TreatmentID (Primary Key) - Digit - 2
                   - Date of Treatment - Date
                   - Treatment Type (Foreign Key) - Digit - 1
-                  - PaymentId (Foreign Key) - Digit - 2
                   
   Payment Table - PaymentId (Primary Key) - Digit - 2 
                 - Amount - Varchar2 - 6
                 - Date to Pay Amount - Date
                 - Payment Type - Varchar2 - 10
-                - Treatment Type ID (Foreign Key) - Digit - 2
 
   o (3 marks) Indexes and database architectures - Zheng 
   
+  The database will have four tables at total: users, treatments, payments, customers. Users table contains user login
+  information (username and password), only admin user can edit records in the database, other users can only view the database
+  records. The user_id will be the primary key in the user table and username and password will be the "login" INDEX. Treatments 
+  table contains treatment information such as treatment type and date. The primary key for treatment table will be treatment_id. 
+  Payments table contains payment information such as payment type, date and amount. The primary key for payment table will be 
+  payment_id. Customers table contains general customer information such as customer's first and last name, phone number, address and email. 
+  The primary key for this table will be the customer_id, it also contains foregin keys (payment_id and treatment_id) that will
+  reference the treatments and payments tables for this specific customer.
+  
   o (3 marks) Query optimization - Zheng 
+  
+  For query optimization, we are using prepared statements because it's not only faster if executing statement several times but
+  also it's a good way to prevent SQL injection. With prepared statements, we can bind direct variables to return
+  columns which means not only data does not need to be converted back and forth but we also save extra data copying from 
+  row structure to our variables. The strategy we are using on query optimization is basically to save on query parsing and
+  to save on data conversion and copying, and also to avoid SQL injection.
   
 • (10 marks) Appendix 3 – An analysis of the database - Trevor
   o the size of the database, now and for the next three to five years (5 marks) - 
