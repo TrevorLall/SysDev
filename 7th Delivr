@@ -65,9 +65,14 @@ interaction with the various parts of the database. - Done)
   
 • (10 marks) Appendix 3 – An analysis of the database - Trevor
   o the size of the database, now and for the next three to five years (5 marks) - 
-  how space needed for the next 5 years. 
-  How many is needed for 1 input 
-  How much in a day
+  
+  The size of the current database system that we plan on creating is relatively small for our clients. It is starting out at roughly
+  0.1 mb in size and will grow with time. The primary users of the system are only going to be the receptionists and stephan chilev(the owner)
+  of Chiltech Drain Francais. Thus the information system being created is being used solely on one device.The database we are creating for right now only consists of four
+  tables, thus it is not complex and large. It is large enough for their current userbase and the small niche amount of local customers
+  they currently have. If however, in the next three to five years , the company were to start expanding the database would become way too small in size
+  It would need to accommodate for other locations as well as an expanded customer base. Naturally the size of the database 
+  has a direct correlation to how well sales and the company is doing. 
   
   o explanation of the access speed required, and how your design will permit this (5 marks). 
   
