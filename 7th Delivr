@@ -78,7 +78,7 @@ interaction with the various parts of the database. - Done)
   
   The access speed for the information system is going to be extremely quick. We are creating a dedicated application for the database,
   so it will be stored directly onto their systems. Since the information system will start off small it will need a fairly 
-  low spec machine to run the application.
+  low spec machine to run the application. Our design will permit this to happen, because... (not finished)
   
 • (10 marks) Appendix 4 – User interface designs (these will be updated versions of the second
 prototype from the 5th deliverable) - so printed version I'm guessing? Karyn
