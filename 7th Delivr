@@ -98,7 +98,9 @@ We aimed our best at ensuring this database design is easy to search through and
   
   The access speed for the information system is going to be extremely quick. We are creating a dedicated application for the database,
   so it will be stored directly onto their systems. Since the information system will start off small it will need a fairly 
-  low spec machine to run the application. Our design will permit this to happen, because... (not finished)
+  low spec machine to run the application. Our design will permit this to happen, because all the data types in every table
+  are at the right sizes so when they are stored, they don't take extra space. We will be using prepared statements so that can increase the peroformance
+  of the entire database, because all the variables only need to be bind once.
   
 • (10 marks) Appendix 4 – User interface designs (these will be updated versions of the second
 prototype from the 5th deliverable) - so printed version I'm guessing? Karyn
