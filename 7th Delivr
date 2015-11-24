@@ -74,7 +74,11 @@ interaction with the various parts of the database. - Done)
   It would need to accommodate for other locations as well as an expanded customer base. Naturally the size of the database 
   has a direct correlation to how well sales and the company is doing. 
   
-  o explanation of the access speed required, and how your design will permit this (5 marks). 
+  o explanation of the access speed required, and how your design will permit this (5 marks).
+  
+  The access speed for the information system is going to be extremely quick. We are creating a dedicated application for the database,
+  so it will be stored directly onto their systems. Since the information system will start off small it will need a fairly 
+  low spec machine to run the application.
   
 • (10 marks) Appendix 4 – User interface designs (these will be updated versions of the second
 prototype from the 5th deliverable) - so printed version I'm guessing? Karyn
