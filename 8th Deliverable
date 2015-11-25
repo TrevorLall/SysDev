@@ -1,17 +1,30 @@
 This deliverable should contain the following information:
 
-• (3 marks) Front matter (see 1st deliverable)
+• (3 marks) Front matter (see 1st deliverable) -COMPLETED
 
 • (5 marks) Executive Overview (see above for a description).
 
-• (5 marks) Summary description of the client
+• (5 marks) Summary description of the client - COMPLETED
 
-• (5 marks) Revised summary narrative description of the project
 
-• (5 marks) Client’s comments
+
+• (5 marks) Revised summary narrative description of the project - COMPLETED
+
+The goal of this project is to build an interactive and computerized information system for our client "Chiltech"
+(a french drain cleaning service). The main idea that we are striving our information system to be is simple. In order to
+achieve that we need to create a user interface that is accessible, and database functions that are not too complex.
+The project needs to be this way so that we can make a system that caters to our client. Stephan Chilev (The owner).
+He is not a computer savvy person and his current information system is being done on pen and paper. The main functions 
+that he wanted us to be able to implement in the system, is to be able to add, delete, search, edit and display their
+customers in a database along with the type of treatment they received and the amount each customer has paid. A special
+request is for us to be able to store pictures and videos that he has taken after each treatment service that he has provided.
+He currently has them saved on a usb, but would like a more organized way to view them. Overall, Chiltech is looking to make 
+their company more relevant to the digital age, and creating a virtual information system is a right step in that direction.
+
+• (5 marks) Client’s comments - KARYN
 
 • (10 marks) Future work (what needs to be done to complete the project) (5 marks) – refer to the
-story map, including pictures (5 marks)
+story map, including pictures (5 marks) - IGOR
 
 • (10 marks) Appendix 1 – Revised user interface – indicate what changed
 
