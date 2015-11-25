@@ -41,6 +41,13 @@ on the work it was coming along and how we often keep up to date with them.  [to
 • (10 marks) Future work (what needs to be done to complete the project) (5 marks) – refer to the
 story map, including pictures (5 marks) - IGOR
 
+Future work
+	The prototype’s functionality is based on storing information into the database and then retrieve for any use. Our prototype completes this function; however, there are some implementation were hard to make so we keep it on a side. One of the first function that should be add to the prototype to make it a complete project, is to be able to store videos and photos and link them to the user. Of course, if we are adding it we should also be able to retrieve. In addition, since pictures and videos are taking more space in the system, the database itself will take more space and later, it might be very important for the client. 
+	Secondly, the website can be used only by the secretary; however, making the prototype functional for the client’s client is also final step for project. Registration will make it easier for client since, all the information will be stored itself during the registration. They could see what day they are free and then take the appointment and then call for the final confirmation. It will make the company more efficient because not only secretary can see the date of the appointment. Their users will also be able to see the results (after work pictures) of their work, so it will be also like a promotion for them. We could take a look in user stories to better understand the use of pictures and videos. 
+	Last and the most important, is to make the website secure for the client and user. With a secure website, we could do all possible payments on the website. It was also required in user stories but it implementation was a very risky part to do because a mistake can be crucial and make people lose money. On other hand, this function will make the website fully complete for the client. 
+
+
+
 • (10 marks) Appendix 1 – Revised user interface – indicate what changed
 
 • (15 marks) Appendix 2 – Printed version of the user guide
