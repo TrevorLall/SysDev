@@ -1,10 +1,4 @@
 # SysDev
-Systems N Stuff
-bonjour
-test
+Documents submitted for systems development class at Vanier College
 
 
-g
- hii
-hello!
-jnjkhk
